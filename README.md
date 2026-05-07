@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://i.imgur.com/8lWaP6x.jpeg" width="100%" alt="Tony Stark Banner"/>
+  <img 
+    src="https://github.com/user-attachments/assets/77167f3f-a3ab-4b50-b583-ea2048d24a11"
+    width="100%"
+    alt="Tony Stark Banner"
+  />
 </p>
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Leonardo Augusto Lima Alves
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Leonardo Augusto Lima Alves
 </h1>
 
 <h3 align="center">
@@ -11,19 +16,21 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00C3FF&center=true&vCenter=true&width=800&lines=Future+Back-End+Engineer;Java+%2B+Spring+Boot+Developer;Building+Systems+Inspired+by+JARVIS;Passionate+About+AI+and+Technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&pause=1200&color=00C3FF&center=true&vCenter=true&width=900&lines=Future+Back-End+Engineer;Java+%2B+Spring+Boot+Developer;Building+Systems+Inspired+by+JARVIS;Passionate+About+AI+and+Technology" />
 </p>
 
 ---
 
-## 🧠 About Me
+<h2 align="center">⚡ SYSTEM STATUS ⚡</h2>
 
 ```java
 public class Leonardo {
 
+    String name = "Leonardo Augusto Lima Alves";
+
     String role = "Back-End Developer";
 
-    String[] technologies = {
+    String[] stack = {
         "Java",
         "Spring Boot",
         "REST APIs",
@@ -37,28 +44,22 @@ public class Leonardo {
     };
 
     String focus = "Scalable Back-End Systems";
-    String dream = "Build something like JARVIS";
+
+    String inspiration = "J.A.R.V.I.S";
+
+    boolean coffeePowered = true;
 }
 ```
 
-Programming student focused on **Back-End Development with Java** and passionate about technology, systems, automation, and problem-solving.
+---
+
+# 🧠 About Me
+
+Programming student focused on **Back-End Development with Java** and passionate about technology, automation, systems, and problem-solving.
 
 Currently studying API development, software architecture, scalable systems, and building projects to evolve as a developer.
 
-I have a strong interest in futuristic technologies, AI systems, and creating real-world applications inspired by JARVIS from Iron Man.
-
----
-
-# ⚡ Profile
-
-```yaml
-Name: Leonardo Augusto Lima Alves
-Location: Eunapolis - BA, Brazil
-Role: Back-End Developer in Progress
-Main Stack: Java + Spring Boot
-Learning: Clean Architecture & Scalable Systems
-Goal: International Software Engineer
-```
+Inspired by futuristic technology, AI systems, and the idea of creating something as incredible as JARVIS someday.
 
 ---
 
@@ -70,31 +71,17 @@ Goal: International Software Engineer
 
 </p>
 
-- Java
-- Spring Boot
-- REST APIs
-- JPA / Hibernate
-- MySQL
-- Docker
-- Git & GitHub
-- Software Architecture
-- Clean Code
-- Scalable Systems
-- Back-End Development
+<p align="center">
+
+`Java` • `Spring Boot` • `REST APIs` • `JPA` • `Hibernate`
+`MySQL` • `Docker` • `Git` • `GitHub`
+`Software Architecture` • `Clean Code` • `Scalable Systems`
+
+</p>
 
 ---
 
-# 🤝 Open To Collaborate On
-
-- Java Back-End Projects
-- REST APIs
-- Spring Boot Applications
-- Automation Systems
-- Open Source Projects
-
----
-
-# 🌐 Contact & Socials
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -144,24 +131,36 @@ Goal: International Software Engineer
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
 
 </p>
 
 ---
 
-# ⚡ Anything Else?
+# 🤝 Open To Collaborate On
 
-> "Inspired by futuristic technology, AI systems and the idea of building something as incredible as JARVIS someday."
+- Java Back-End Projects
+- REST APIs
+- Spring Boot Applications
+- Automation Systems
+- Open Source Projects
+
+---
+
+# ⚡ Vision
+
+> “Inspired by futuristic technology, AI systems and the idea of building something as incredible as JARVIS someday.”
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C3FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C3FF&height=140&section=footer"/>
 </p>
