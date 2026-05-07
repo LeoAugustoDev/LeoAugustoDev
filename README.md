@@ -1,43 +1,167 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Leonardo Augusto Lima Alves
-====================================================================================================================================================
-
-☕ Back-End Developer in Progress | Java & Spring Boot Enthusiast
-----------------------------------------------------------------
-
-Programming student focused on Back-End development with Java and passionate about technology, systems, and problem-solving. Currently studying API development, back-end architecture, and the Spring Boot ecosystem while building projects to grow as a developer.
-
-I have a strong interest in creating real-world systems, automations, and eventually developing a virtual assistant inspired by Jarvis, integrating AI with Java. I’m also curious about software engineering, scalability, and system architecture.
-
-Beyond programming, I’m a huge fan of science fiction, games, and technology in general — especially anything related to innovation, artificial intelligence, and the future.
-
-* 🌍  I'm based in Eunapolis Ba
-* ✉️  You can contact me at [leoaugustoalves58@gmail.com](mailto:leoaugustoalves58@gmail.com)
-* 🧠  I'm currently learning Java, Spring Boot, REST APIs, JPA, Hibernate, MySQL, Docker, Postman, Git, GitHub, Software Architecture, Back-End Development, Clean Code and Scalable Systems
-* 👥  I'm looking to collaborate on Java Back-End Projects, REST APIs, Spring Boot Applications, Automation Systems and Open Source Projects
-* 💬  Ask me about Inspired by futuristic technology, AI systems and the idea of building something as incredible as Jarvis someday.
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://i.imgur.com/8lWaP6x.jpeg" width="100%" alt="Tony Stark Banner"/>
 </p>
 
-### Socials
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Leonardo Augusto Lima Alves
+</h1>
 
-<p align="left"> <a href="https://www.github.com/LeoAugustoDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/shebeleo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/Leonardo Augusto" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.twitch.tv/shebaskkk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a> <a href="https://www.youtube.com/@shebaskkk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/kirito" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/@leoaugustooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-<a href="https://www.github.com/LeoAugustoDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LeoAugustoDev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/shebeleo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/shebeleo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/shebaskkk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/shebaskkk?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-### Badges
+<h3 align="center">
+☕ Back-End Developer in Progress | Java & Spring Boot Enthusiast
+</h3>
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00C3FF&center=true&vCenter=true&width=800&lines=Future+Back-End+Engineer;Java+%2B+Spring+Boot+Developer;Building+Systems+Inspired+by+JARVIS;Passionate+About+AI+and+Technology" />
+</p>
 
-<a href="http://www.github.com/LeoAugustoDev"><img src="https://github-readme-stats.vercel.app/api?username=LeoAugustoDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LeoAugustoDev's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/LeoAugustoDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoAugustoDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🧠 About Me
 
-<a href="https://github.com/LeoAugustoDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAugustoDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+```java
+public class Leonardo {
 
-<b>Top Repositories</b>
+    String role = "Back-End Developer";
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+    String[] technologies = {
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "JPA",
+        "Hibernate",
+        "MySQL",
+        "Docker",
+        "Git",
+        "GitHub",
+        "Postman"
+    };
+
+    String focus = "Scalable Back-End Systems";
+    String dream = "Build something like JARVIS";
+}
+```
+
+Programming student focused on **Back-End Development with Java** and passionate about technology, systems, automation, and problem-solving.
+
+Currently studying API development, software architecture, scalable systems, and building projects to evolve as a developer.
+
+I have a strong interest in futuristic technologies, AI systems, and creating real-world applications inspired by JARVIS from Iron Man.
+
+---
+
+# ⚡ Profile
+
+```yaml
+Name: Leonardo Augusto Lima Alves
+Location: Eunapolis - BA, Brazil
+Role: Back-End Developer in Progress
+Main Stack: Java + Spring Boot
+Learning: Clean Architecture & Scalable Systems
+Goal: International Software Engineer
+```
+
+---
+
+# 🚀 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,postgres,mongodb,linux,aws,azure,vscode" />
+
+</p>
+
+- Java
+- Spring Boot
+- REST APIs
+- JPA / Hibernate
+- MySQL
+- Docker
+- Git & GitHub
+- Software Architecture
+- Clean Code
+- Scalable Systems
+- Back-End Development
+
+---
+
+# 🤝 Open To Collaborate On
+
+- Java Back-End Projects
+- REST APIs
+- Spring Boot Applications
+- Automation Systems
+- Open Source Projects
+
+---
+
+# 🌐 Contact & Socials
+
+<p align="center">
+
+<a href="mailto:leoaugustoalves58@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00C3FF"/>
+</a>
+
+<a href="https://github.com/LeoAugustoDev">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C3FF"/>
+</a>
+
+<a href="https://x.com/shebeleo">
+  <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00C3FF"/>
+</a>
+
+<a href="https://discord.com/users/kirito">
+  <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00C3FF"/>
+</a>
+
+<a href="https://www.youtube.com/@shebaskkk">
+  <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00C3FF"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoAugustoDev&show_icons=true&theme=transparent&title_color=00C3FF&text_color=FFFFFF&icon_color=00C3FF&border_color=00C3FF"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoAugustoDev&theme=black-ice&hide_border=true&stroke=0000&ring=00C3FF&fire=00C3FF&currStreakLabel=00C3FF"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAugustoDev&layout=compact&theme=transparent&title_color=00C3FF&text_color=FFFFFF&border_color=00C3FF"/>
+
+</p>
+
+---
+
+# ⚙️ Tech Arsenal
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55"/>
+
+</p>
+
+---
+
+# ⚡ Anything Else?
+
+> "Inspired by futuristic technology, AI systems and the idea of building something as incredible as JARVIS someday."
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C3FF&height=120&section=footer"/>
+</p>
